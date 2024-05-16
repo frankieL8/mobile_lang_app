@@ -1,0 +1,12 @@
+<resources>
+    <string name="title1">Confidence in your words</string>
+    <string name="title2">Take your time to learn</string>
+    <string name="title3">The lessons you need to learn</string>
+    <string name="description1">With conversation-based learning, you\'ll be talking from lesson one</string>
+    <string name="description2">Develop a habit of learning and make it a part of your daily routine</string>
+    <string name="description3">Using a variety of learning styles to learn and retain</string>
+    <string name="button1">Next</string>
+    <string name="button2">More</string>
+    <string name="button3">Choose a language</string>
+    <string name="skip_onboarding">Skip onboarding</string>
+</resources>

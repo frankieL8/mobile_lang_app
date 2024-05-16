@@ -1,0 +1,37 @@
+<resources>
+    <string name="login_app_bar">Login</string>
+    <string name="login_title">For free, join now and start learning</string>
+    <string name="login_email">Email Address</string>
+    <string name="login_email_box">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_password_box">••••••••••</string>
+    <string name="login_forgot_password">Forgot Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_signup1">Not you member?</string>
+    <string name="login_signup2">Signup</string>
+    <string name="login_google1">Use can use</string>
+    <string name="login_google2">Google for</string>
+    <string name="login_google3">sign in</string>
+
+    <string name="signup1_app_bar">Signup</string>
+    <string name="signup1_title">Create an Account</string>
+    <string name="signup1_first_name">First Name</string>
+    <string name="signup1_first_name_box">Your First Name</string>
+    <string name="signup1_last_name">Last Name</string>
+    <string name="signup1_last_name_box">Your Last Name</string>
+    <string name="signup1_address_name">Email Address</string>
+    <string name="signup1_address_name_box">Email</string>
+    <string name="signup1_button">Continue</string>
+    <string name="signup1_bottom_text1">Already you member?</string>
+    <string name="signup1_bottom_text2">Login</string>
+
+    <string name="signup2_app_bar">Signup</string>
+    <string name="signup2_title">Choose a Password</string>
+    <string name="signup2_password">Password</string>
+    <string name="signup2_password_box">••••••••••</string>
+    <string name="signup2_password_confirm">Confirm</string>
+    <string name="signup2_password_confirm_box">••••••••••</string>
+    <string name="signup2_button">Signup</string>
+    <string name="signup2_bottom_text1">Already you member?</string>
+    <string name="signup2_bottom_text2">Login</string>
+</resources>
